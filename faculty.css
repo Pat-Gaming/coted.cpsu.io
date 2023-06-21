@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ .table {
+    font-weight: 200;
+    font-size: 300;
+ }
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+}
+
+.centered-image {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.cpsu-logo {
+    display: flex;
+    align-items: center;
+}
+
+.centered-image1 {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    margin-left: 10px; /* Adjust the margin as needed */
+}
+
+.title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container-1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh; /* Set the container height as needed */
+  }
+  
+  .image-container-1 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container-1 img {
+    margin: 0 10px; /* Adjust the margin between images as needed */
+    max-height: 200px; /* Set the max-height for the images as needed */
+  }
+  
